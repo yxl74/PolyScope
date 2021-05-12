@@ -688,7 +688,7 @@ u:r:untrusted_app_27:s0:c512,c768        u0_a249              u0_a249           
 u:r:priv_app:s0:c512,c768                u0_a193              u0_a193              com.oneplus.gallery                                          /system/bin/app_process64     9872
 u:r:priv_app:s0:c512,c768                u0_a193              u0_a193              com.oneplus.gallery:recyclebin                               /system/bin/app_process64     9939
 u:r:untrusted_app:s0:c149,c256,c512,c768 u0_a149              u0_a149              com.google.android.contacts                                  /system/bin/app_process64     9998
-u:r:zygote:s0                            root                 root                 usap64                                                       /system/bin/app_process64     9999
+u:r:untrusted_app:s0:c229,c256,c512,c768 u0_a229              u0_a229              com.google.android.apps.magazines                            /system/bin/app_process64     9999
 u:r:zygote:s0                            root                 root                 usap64                                                       /system/bin/app_process64    10000
 u:r:zygote:s0                            root                 root                 usap64                                                       /system/bin/app_process64    10001
 u:r:zygote:s0                            root                 root                 usap64                                                       /system/bin/app_process64    10002
@@ -696,61 +696,56 @@ u:r:zygote:s0                            root                 root              
 u:r:zygote:s0                            root                 root                 usap64                                                       /system/bin/app_process64    10004
 u:r:zygote:s0                            root                 root                 usap64                                                       /system/bin/app_process64    10005
 u:r:zygote:s0                            root                 root                 usap64                                                       /system/bin/app_process64    10006
-u:r:installd:s0                          root                 root                 installd                                                     /system/bin/installd         10070
-u:r:kernel:s0                            root                 root                 [kworker/u17:0-dwc_wq]                                       [kworker/u17:0-dwc_wq]       10476
+u:r:kernel:s0                            root                 root                 [kworker/u17:0-kgsl-events]                                  [kworker/u17:0-kgsl-events]  10476
 u:r:untrusted_app_27:s0:c512,c768        u0_a249              u0_a249              com.tencent.tmgp.sgame:tgaPlugin                             /system/bin/app_process64    10761
 u:r:kernel:s0                            root                 root                 [kworker/5:1-events]                                         [kworker/5:1-events]         10877
-u:r:kernel:s0                            root                 root                 [kworker/3:2-cgroup_pidlist_destroy]                         [kworker/3:2-cgroup_pidlist_destroy] 10943
 u:r:kernel:s0                            root                 root                 [kworker/1:2H-kblockd]                                       [kworker/1:2H-kblockd]       11104
-u:r:untrusted_app_29:s0:c246,c256,c512,c768 u0_a246           u0_a246              com.symantec.mobilesecurity                                  /system/bin/app_process64    11209
 u:r:priv_app:s0:c512,c768                u0_a193              u0_a193              com.oneplus.gallery:contentdetector                          /system/bin/app_process64    11360
-u:r:shell:s0                             shell                shell                com.android.shell                                            /system/bin/app_process64    11622
-u:r:traceur_app:s0:c110,c256,c512,c768   u0_a110              u0_a110              com.android.traceur                                          /system/bin/app_process64    11645
-u:r:kernel:s0                            root                 root                 [kworker/6:1-cgroup_destroy]                                 [kworker/6:1-cgroup_destroy] 11665
-u:r:priv_app:s0:c512,c768                u0_a193              u0_a193              com.oneplus.gallery:cloud                                    /system/bin/app_process64    11667
-u:r:kernel:s0                            root                 root                 [kworker/7:2-events_freezable_power_]                        [kworker/7:2-events_freezable_power_] 11725
-u:r:system_app:s0                        system               system               com.android.keychain                                         /system/bin/app_process64    11801
+u:r:kernel:s0                            root                 root                 [kworker/6:1-cgroup_pidlist_destroy]                         [kworker/6:1-cgroup_pidlist_destroy] 11665
+u:r:kernel:s0                            root                 root                 [kworker/7:2-cgroup_destroy]                                 [kworker/7:2-cgroup_destroy] 11725
 u:r:priv_app:s0:c512,c768                u0_a146              u0_a146              com.google.android.googlequicksearchbox:search               /system/bin/app_process64    11824
-u:r:priv_app:s0:c512,c768                u0_a176              u0_a176              net.oneplus.provider.appcategoryprovider                     /system/bin/app_process64    11844
 u:r:kernel:s0                            root                 root                 [kworker/4:1-events]                                         [kworker/4:1-events]         11961
 u:r:priv_app:s0:c512,c768                u0_a93               u0_a93               com.android.providers.calendar                               /system/bin/app_process64    12054
-u:r:untrusted_app:s0:c231,c256,c512,c768 u0_a231              u0_a231              com.google.android.apps.subscriptions.red                    /system/bin/app_process64    12340
 u:r:untrusted_app:s0:c161,c256,c512,c768 u0_a161              u0_a161              com.google.android.apps.maps                                 /system/bin/app_process64    12475
-u:r:untrusted_app:s0:c161,c256,c512,c768 u0_a161              u0_a161              com.google.android.apps.maps:server_recovery_process         /system/bin/app_process64    12620
 u:r:untrusted_app_29:s0:c170,c256,c512,c768 u0_a170           u0_a170              com.google.android.apps.tachyon                              /system/bin/app_process64    12687
 u:r:untrusted_app:s0:c151,c256,c512,c768 u0_a151              u0_a151              com.google.android.inputmethod.latin                         /system/bin/app_process64    12992
 u:r:untrusted_app:s0:c153,c256,c512,c768 u0_a153              u0_a153              com.google.android.webview:webview_service                   /system/bin/app_process64    13166
-u:r:kernel:s0                            root                 root                 [kworker/2:0-events]                                         [kworker/2:0-events]         13213
-u:r:kernel:s0                            root                 root                 [kworker/0:3-events]                                         [kworker/0:3-events]         13246
 u:r:priv_app:s0:c512,c768                u0_a142              u0_a142              com.google.android.apps.turbo                                /system/bin/app_process64    13247
 u:r:untrusted_app_27:s0:c512,c768        u0_a249              u0_a249              com.tencent.tmgp.sgame                                       /system/bin/app_process64    13284
-u:r:kernel:s0                            root                 root                 [kworker/3:1-cgroup_pidlist_destroy]                         [kworker/3:1-cgroup_pidlist_destroy] 13378
-u:r:kernel:s0                            root                 root                 [kworker/1:0-mm_percpu_wq]                                   [kworker/1:0-mm_percpu_wq]   13387
-u:r:kernel:s0                            root                 root                 [kworker/2:2-events]                                         [kworker/2:2-events]         13391
 u:r:kernel:s0                            root                 root                 [kworker/0:1-events]                                         [kworker/0:1-events]         13468
-u:r:kernel:s0                            root                 root                 [kworker/3:0-events]                                         [kworker/3:0-events]         13478
-u:r:kernel:s0                            root                 root                 [kworker/1:1]                                                [kworker/1:1]                13480
-u:r:kernel:s0                            root                 root                 [kworker/2:1-events]                                         [kworker/2:1-events]         13481
 u:r:untrusted_app:s0:c227,c256,c512,c768 u0_a227              u0_a227              com.topjohnwu.magisk                                         /system/bin/app_process64    13569
-u:r:kernel:s0                            root                 root                 [kworker/u17:2-hal_register_write_wq]                        [kworker/u17:2-hal_register_write_wq] 13793
+u:r:kernel:s0                            root                 root                 [kworker/u17:2-dwc_wq]                                       [kworker/u17:2-dwc_wq]       13793
 u:r:gsid:s0                              root                 root                 gsid                                                         /system/bin/gsid             16324
 u:r:priv_app:s0:c512,c768                u0_a94               u0_a94               android.process.acore                                        /system/bin/app_process64    18297
-u:r:dex2oat:s0                           50145                all_a145             dex2oat32 --watchdog-timeout=45000 --zip-fd=10 --zip-location=base.apk --input-vdex-fd=12 --output-vdex-fd=13 --oat-fd=11 --oat-location=/data/app/~~I6rLjVo_2SFCC0QTSdhuHw==/com.android.vending-GyP_kV86k_UgAQgkhr-s0w==/oat/arm64/base.odex --instruction-set=arm64 --instruction-set-variant=generic --instruction-set-features=default --runtime-arg -Xbootclasspath:/apex/com.android.art/javalib/core-oj.jar:/apex/com.android.art/javalib/core-libart.jar:/apex/com.android.art/javalib/core-icu4j.jar:/apex/com.android.art/javalib/okhttp.jar:/apex/com.android.art/javalib/bouncycastle.jar:/apex/com.android.art/javalib/apache-xml.jar:/system/framework/framework.jar:/system/framework/ext.jar:/system/framework/telephony-common.jar:/system/framework/voip-common.jar:/system/framework/ims-common.jar:/system/framework/framework-atb-backward-compatibility.jar:/system/framework/tcmiface.jar:/system/framework/telephony-ext.jar:/system/framework/QPerformance.jar:/system/framework/UxPerformance.jar:/system/framework/WfdCommon.jar:/system/framework/oneplus-framework.jar:/system/framework/oneplus_framework_wrapper.jar:/system/framework/qcnvitems.jar --runtime-arg -Xms64m --runtime-arg -Xmx512m --updatable-bcp-packages-file=/system/etc/updatable-bcp-packages.txt --resolve-startup-const-strings=true --max-image-block-size=524288 --compiler-filter=speed-profile -j6 --swap-fd=14 --app-image-fd=16 --image-format=lz4 --profile-file-fd=15 --classpath-dir=/data/app/~~I6rLjVo_2SFCC0QTSdhuHw==/com.android.vending-GyP_kV86k_UgAQgkhr-s0w== --class-loader-context=PCL[]{PCL[/system/framework/org.apache.http.legacy.jar]} --generate-mini-debug-info --runtime-arg -Xtarget-sdk-version:30 --runtime-arg -Xhidden-api-policy:enabled --compilation-reason=unknown /apex/com.android.art/bin/dex2oat32 18731
 u:r:untrusted_app:s0:c163,c256,c512,c768 u0_a163              u0_a163              com.android.chrome                                           /system/bin/app_process64    18778
 u:r:app_zygote:s0:c512,c768              u0_a163              u0_a163              com.android.chrome_zygote                                    /system/bin/app_process64    19409
 u:r:isolated_app:s0:c512,c768            u0_i1                u0_i1                com.android.chrome:sandboxed_process0:org.chromium.content.app.SandboxedProcessService0:0 /system/bin/app_process64 19480
 u:r:untrusted_app:s0:c163,c256,c512,c768 u0_a163              u0_a163              com.android.chrome:privileged_process0                       /system/bin/app_process64    19501
 u:r:isolated_app:s0:c512,c768            u0_i3                u0_i3                com.android.chrome:sandboxed_process0:org.chromium.content.app.SandboxedProcessService0:1 /system/bin/app_process64 19755
-u:r:kernel:s0                            root                 root                 [kworker/6:0-events]                                         [kworker/6:0-events]         20319
-u:r:shell:s0                             shell                shell                sh -c su -c "ps -A -o label:40,user:20,group:20,ARGS:60,COMMAND,PID > /sdcard/ps" /system/bin/sh 20388
-u:r:magisk_client:s0                     shell                shell                su -c ps -A -o label:40,user:20,group:20,ARGS:60,COMMAND,PID > /sdcard/ps /system/bin/magisk 20391
-u:r:magisk:s0                            root                 root                 magiskd                                                      /dev/cQ3/magisk              20394
-u:r:magisk:s0                            root                 root                 sh -c ps -A -o label:40,user:20,group:20,ARGS:60,COMMAND,PID > /sdcard/ps /system/bin/sh  20395
-u:r:magisk:s0                            root                 root                 app_process /system/bin com.android.commands.content.Content call --uri content://com.topjohnwu.magisk.provider --user 0 --method log --extra from.uid:i:2000 --extra to.uid:i:0 --extra pid:i:20391 --extra policy:i:2 --extra command:s:ps -A -o label:40,user:20,group:20,ARGS:60,COMMAND,PID > /sdcard/ps --extra MAND,PID > /sdcard/ps /system/bin/app_process64 20396
-u:r:magisk:s0                            root                 root                 ps -A -o label:40,user:20,group:20,ARGS:60,COMMAND,PID       /system/bin/toybox           20400
+u:r:kernel:s0                            root                 root                 [kworker/6:0-cgroup_destroy]                                 [kworker/6:0-cgroup_destroy] 20319
+u:r:mediaprovider:s0:c512,c768           u0_a90               u0_a90               android.process.media                                        /system/bin/app_process64    20582
+u:r:priv_app:s0:c512,c768                u0_a142              u0_a142              com.google.android.apps.turbo:ssb                            /system/bin/app_process64    20606
+u:r:magisk_client:s0:c227,c256,c512,c768 u0_a227              u0_a227              su --mount-master                                            /system/bin/magisk           20698
+u:r:magisk:s0                            root                 root                 libbusybox.so sh                                             /data/app/~~CZvbnvRLPliHlBRv8drmaA==/com.topjohnwu.magisk-4ZP28m41SsUKx-Q7yl7-2w==/lib/arm/libbusybox.so 20703
+u:r:platform_app:s0:c512,c768            u0_a181              u0_a181              net.oneplus.launcher                                         /system/bin/app_process64    20784
+u:r:kernel:s0                            root                 root                 [kworker/7:0-events_freezable_power_]                        [kworker/7:0-events_freezable_power_] 20805
+u:r:system_app:s0                        system               system               com.oneplus.gamespace                                        /system/bin/app_process64    20834
 u:r:kernel:s0                            root                 root                 [kworker/6:2H-kblockd]                                       [kworker/6:2H-kblockd]       21562
-u:r:kernel:s0                            root                 root                 [kworker/1:1H-kblockd]                                       [kworker/1:1H-kblockd]       21598
+u:r:kernel:s0                            root                 root                 [kworker/1:1H-events_highpri]                                [kworker/1:1H-events_highpri] 21598
+u:r:priv_app:s0:c512,c768                u0_a187              u0_a187              net.oneplus.odm.provider                                     /system/bin/app_process64    22286
+u:r:kernel:s0                            root                 root                 [kworker/3:2-kdmflush]                                       [kworker/3:2-kdmflush]       22340
+u:r:kernel:s0                            root                 root                 [kworker/2:0-events_power_efficient]                         [kworker/2:0-events_power_efficient] 22349
+u:r:kernel:s0                            root                 root                 [kworker/0:3-events]                                         [kworker/0:3-events]         22390
+u:r:kernel:s0                            root                 root                 [kworker/1:1-events_power_efficient]                         [kworker/1:1-events_power_efficient] 22396
+u:r:kernel:s0                            root                 root                 [kworker/3:1-events]                                         [kworker/3:1-events]         22401
+u:r:kernel:s0                            root                 root                 [kworker/u16:0-adb]                                          [kworker/u16:0-adb]          22403
+u:r:kernel:s0                            root                 root                 [kworker/2:1-mm_percpu_wq]                                   [kworker/2:1-mm_percpu_wq]   22427
+u:r:priv_app:s0:c512,c768                u0_a193              u0_a193              com.oneplus.gallery:cloud                                    /system/bin/app_process64    22459
+u:r:kernel:s0                            root                 root                 [kworker/0:4-events]                                         [kworker/0:4-events]         22483
+u:r:kernel:s0                            root                 root                 [kworker/u16:1-ufs_pm_qos_0]                                 [kworker/u16:1-ufs_pm_qos_0] 22493
+u:r:kernel:s0                            root                 root                 [kworker/u17:1-hal_register_write_wq]                        [kworker/u17:1-hal_register_write_wq] 22781
 u:r:kernel:s0                            root                 root                 [kworker/3:2H-kblockd]                                       [kworker/3:2H-kblockd]       23113
+u:r:kernel:s0                            root                 root                 [kworker/3:0-mm_percpu_wq]                                   [kworker/3:0-mm_percpu_wq]   23158
 u:r:kernel:s0                            root                 root                 [kworker/5:0-cgroup_pidlist_destroy]                         [kworker/5:0-cgroup_pidlist_destroy] 23187
 u:r:priv_app:s0:c512,c768                u0_a145              u0_a145              com.android.vending                                          /system/bin/app_process64    23992
 u:r:kernel:s0                            root                 root                 [kworker/2:2H-kblockd]                                       [kworker/2:2H-kblockd]       24634
@@ -759,9 +754,8 @@ u:r:magisk:s0                            root                 root              
 u:r:magisk:s0                            root                 root                 logcat -b crash -B                                           /system/bin/logcat           26734
 u:r:magisk:s0                            root                 root                 frida-helper-32 unix:abstract=/data/local/tmp/re.frida.server/dbus-CD2qF1nS /data/local/tmp/re.frida.server/frida-helper-32 26752
 u:r:priv_app:s0:c512,c768                u0_a141              u0_a141              com.google.android.dialer                                    /system/bin/app_process64    26863
+u:r:kernel:s0                            root                 root                 [kworker/2:2-mm_percpu_wq]                                   [kworker/2:2-mm_percpu_wq]   27027
 u:r:priv_app:s0:c512,c768                u0_a146              u0_a146              com.google.android.googlequicksearchbox:train                /system/bin/app_process64    27511
-u:r:priv_app:s0:c512,c768                u0_a187              u0_a187              net.oneplus.odm.provider                                     /system/bin/app_process64    27777
-u:r:kernel:s0                            root                 root                 [kworker/6:3-cgroup_pidlist_destroy]                         [kworker/6:3-cgroup_pidlist_destroy] 27950
 u:r:hal_audio_default:s0                 audioserver          audio                android.hardware.audio.service                               /vendor/bin/hw/android.hardware.audio.service 28288
 u:r:zygote:s0                            root                 root                 zygote64                                                     /system/bin/app_process64    28289
 u:r:zygote:s0                            root                 root                 zygote                                                       /system/bin/app_process32    28290
@@ -774,11 +768,12 @@ u:r:netd:s0                              root                 root              
 u:r:netd:s0                              root                 root                 iptables-restore --noflush -w -v                             /system/bin/iptables         28307
 u:r:system_server:s0                     system               system               system_server                                                /system/bin/app_process64    28423
 u:r:system_app:s0                        system               system               com.android.settings                                         /system/bin/app_process64    28661
-u:r:platform_app:s0:c512,c768            u0_a181              u0_a181              net.oneplus.launcher                                         /system/bin/app_process64    28665
 u:r:vendor_core_app:s0                   system               system               com.oneplus.coreservice                                      /system/bin/app_process64    28702
 u:r:system_app:s0                        system               system               com.oneplus.config                                           /system/bin/app_process64    28803
 u:r:platform_app:s0:c512,c768            u0_a203              u0_a203              com.oneplus.wallpaper                                        /system/bin/app_process64    28889
+u:r:priv_app:s0:c512,c768                u0_a177              u0_a177              com.android.settings.intelligence                            /system/bin/app_process64    28941
 u:r:radio:s0                             radio                radio                com.qualcomm.qcrilmsgtunnel                                  /system/bin/app_process64    28952
+u:r:platform_app:s0:c512,c768            u0_a183              u0_a183              com.android.emergency                                        /system/bin/app_process64    29013
 u:r:network_stack:s0:c49,c260,c512,c768  network_stack        network_stack        com.android.networkstack.process                             /system/bin/app_process64    29083
 u:r:vendor_dataservice_app:s0            radio                radio                .dataservices                                                /system/bin/app_process64    29104
 u:r:vendor_qtidataservices_app:s0:c126,c256,c512,c768 u0_a126 u0_a126              .qtidataservices                                             /system/bin/app_process64    29140
@@ -791,22 +786,33 @@ u:r:system_app:s0                        system               system            
 u:r:vendor_qtidataservices_app:s0:c130,c256,c512,c768 u0_a130 u0_a130              .qtidataservices                                             /system/bin/app_process64    29307
 u:r:radio:s0                             radio                radio                com.android.phone                                            /system/bin/app_process64    29332
 u:r:priv_app:s0:c512,c768                u0_a210              u0_a210              com.google.android.ext.services                              /system/bin/app_process64    29397
+u:r:kernel:s0                            root                 root                 [kworker/3:0H-kblockd]                                       [kworker/3:0H-kblockd]       29409
+u:r:traceur_app:s0:c110,c256,c512,c768   u0_a110              u0_a110              com.android.traceur                                          /system/bin/app_process64    29504
 u:r:vendor_qtidataservices_app:s0:c131,c256,c512,c768 u0_a131 u0_a131              .qtidataservices                                             /system/bin/app_process64    29512
+u:r:priv_app:s0:c512,c768                u0_a136              u0_a136              com.google.android.apps.wellbeing                            /system/bin/app_process64    29567
+u:r:gmscore_app:s0:c512,c768             u0_a144              u0_a144              com.google.android.gms.ui                                    /system/bin/app_process64    29667
 u:r:gmscore_app:s0:c512,c768             u0_a144              u0_a144              com.google.android.gms.persistent                            /system/bin/app_process64    29671
 u:r:gmscore_app:s0:c512,c768             u0_a144              u0_a144              com.google.android.gms                                       /system/bin/app_process64    29698
+u:r:installd:s0                          root                 root                 installd                                                     /system/bin/installd         29721
+u:r:kernel:s0                            root                 root                 [kworker/6:2-events]                                         [kworker/6:2-events]         29773
+u:r:shell:s0                             shell                shell                sh -c su -c "ps -A -o label:40,user:20,group:20,ARGS:60,COMMAND,PID > /sdcard/ps" /system/bin/sh 29892
+u:r:magisk_client:s0                     shell                shell                su -c ps -A -o label:40,user:20,group:20,ARGS:60,COMMAND,PID > /sdcard/ps /system/bin/magisk 29896
+u:r:magisk:s0                            root                 root                 magiskd                                                      /dev/cQ3/magisk              29900
+u:r:magisk:s0                            root                 root                 app_process /system/bin com.android.commands.content.Content call --uri content://com.topjohnwu.magisk.provider --user 0 --method log --extra from.uid:i:2000 --extra to.uid:i:0 --extra pid:i:29896 --extra policy:i:2 --extra command:s:ps -A -o label:40,user:20,group:20,ARGS:60,COMMAND,PID > /sdcard/ps --extra MAND,PID > /sdcard/ps /system/bin/app_process64 29902
+u:r:magisk:s0                            root                 root                 sh -c ps -A -o label:40,user:20,group:20,ARGS:60,COMMAND,PID > /sdcard/ps /system/bin/sh  29903
+u:r:magisk:s0                            root                 root                 ps -A -o label:40,user:20,group:20,ARGS:60,COMMAND,PID       /system/bin/toybox           29911
 u:r:kernel:s0                            root                 root                 [irq/16-90b6400.]                                            [irq/16-90b6400.]            29919
 u:r:kernel:s0                            root                 root                 [irq/17-9091000.]                                            [irq/17-9091000.]            29921
 u:r:priv_app:s0:c512,c768                u0_a144              u0_a144              com.google.process.gservices                                 /system/bin/app_process64    30028
 u:r:priv_app:s0:c512,c768                u0_a146              u0_a146              com.google.android.googlequicksearchbox:interactor           /system/bin/app_process64    30256
 u:r:vendor_location_app:s0               u0_a189              u0_a189              com.qualcomm.location                                        /system/bin/app_process64    30274
 u:r:kernel:s0                            root                 root                 [kworker/0:2-events]                                         [kworker/0:2-events]         30460
-u:r:kernel:s0                            root                 root                 [kworker/u16:0-CDSP_DCI]                                     [kworker/u16:0-CDSP_DCI]     30611
 u:r:kernel:s0                            root                 root                 [kworker/0:0-events]                                         [kworker/0:0-events]         30682
 u:r:hypnusd:s0                           system               system               hypnusd                                                      /system_ext/bin/hypnusd      30691
 u:r:priv_app:s0:c512,c768                u0_a140              u0_a140              com.google.android.as                                        /system/bin/app_process64    30706
 u:r:mediaprovider_app:s0:c211,c256,c512,c768 u0_a211          u0_a211              com.google.android.providers.media.module                    /system/bin/app_process64    30730
 u:r:platform_app:s0:c512,c768            u0_a185              u0_a185              com.dolby.daxservice                                         /system/bin/app_process64    30738
-u:r:kernel:s0                            root                 root                 [kworker/u16:3-adb]                                          [kworker/u16:3-adb]          30757
+u:r:kernel:s0                            root                 root                 [kworker/u16:3-ufs_pm_qos_0]                                 [kworker/u16:3-ufs_pm_qos_0] 30757
 u:r:nfc:s0                               nfc                  nfc                  com.android.nfc                                              /system/bin/app_process64    30771
 u:r:kernel:s0                            root                 root                 [irq/456-mhi]                                                [irq/456-mhi]                30805
 u:r:vendor_systemhelper_app:s0:c512,c768 u0_a195              u0_a195              com.qualcomm.qti.services.systemhelper:systemhelper_service  /system/bin/app_process64    30810
@@ -822,14 +828,11 @@ u:r:hal_wifi_supplicant_default:s0       wifi                 wifi              
 u:r:platform_app:s0:c512,c768            u0_a206              u0_a206              com.qualcomm.qti.workloadclassifier                          /system/bin/app_process64    30881
 u:r:system_app:s0                        system               system               com.oneplus.opbugreportlite                                  /system/bin/app_process64    30893
 u:r:platform_app:s0:c512,c768            u0_a180              u0_a180              com.android.systemui                                         /system/bin/app_process64    31012
-u:r:kernel:s0                            root                 root                 [kworker/u16:12-LPASS_DCI]                                   [kworker/u16:12-LPASS_DCI]   31277
-u:r:kernel:s0                            root                 root                 [kworker/u16:14-devfreq_wq]                                  [kworker/u16:14-devfreq_wq]  31279
-u:r:kernel:s0                            root                 root                 [kworker/0:4-events]                                         [kworker/0:4-events]         31283
-u:r:kernel:s0                            root                 root                 [kworker/1:3-events]                                         [kworker/1:3-events]         31300
+u:r:kernel:s0                            root                 root                 [kworker/u16:12-memlat_wq]                                   [kworker/u16:12-memlat_wq]   31277
+u:r:kernel:s0                            root                 root                 [kworker/1:3-mm_percpu_wq]                                   [kworker/1:3-mm_percpu_wq]   31300
 u:r:kernel:s0                            root                 root                 [kworker/0:6-events]                                         [kworker/0:6-events]         31312
 u:r:kernel:s0                            root                 root                 [kworker/0:7-events]                                         [kworker/0:7-events]         31313
-u:r:kernel:s0                            root                 root                 [kworker/u16:18+memlat_wq]                                   [kworker/u16:18+memlat_wq]   31380
-u:r:kernel:s0                            root                 root                 [kworker/u17:1-hal_register_write_wq]                        [kworker/u17:1-hal_register_write_wq] 31484
+u:r:kernel:s0                            root                 root                 [kworker/u16:18-ufs_pm_qos_0]                                [kworker/u16:18-ufs_pm_qos_0] 31380
 u:r:untrusted_app:s0:c162,c256,c512,c768 u0_a162              u0_a162              com.google.android.gm                                        /system/bin/app_process64    31850
 u:r:priv_app:s0:c512,c768                u0_a144              u0_a144              com.google.process.gapps                                     /system/bin/app_process64    31898
 u:r:kernel:s0                            root                 root                 [kworker/4:0-events]                                         [kworker/4:0-events]         31977
@@ -841,6 +844,5 @@ u:r:untrusted_app:s0:c152,c256,c512,c768 u0_a152              u0_a152           
 u:r:untrusted_app_29:s0:c155,c256,c512,c768 u0_a155           u0_a155              com.google.android.apps.youtube.music                        /system/bin/app_process64    32238
 u:r:radio:s0                             radio                radio                com.qualcomm.qti.uim                                         /system/bin/app_process64    32342
 u:r:untrusted_app:s0:c167,c256,c512,c768 u0_a167              u0_a167              com.google.android.apps.photos                               /system/bin/app_process64    32431
-u:r:kernel:s0                            root                 root                 [kworker/7:1-cgroup_pidlist_destroy]                         [kworker/7:1-cgroup_pidlist_destroy] 32494
 u:r:priv_app:s0:c512,c768                u0_a145              u0_a145              com.android.vending:instant_app_installer                    /system/bin/app_process64    32546
 u:r:priv_app:s0:c512,c768                u0_a145              u0_a145              com.android.vending:download_service                         /system/bin/app_process64    32588

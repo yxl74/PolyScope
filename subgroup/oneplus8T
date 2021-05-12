@@ -58,7 +58,7 @@ Name:	mdm_helper
 PID 1039 - Groups: 3010
 Name:	irq/257-arm-smm
 PID 104 - Groups:
-Name:	kworker/u17:0-dwc_wq
+Name:	kworker/u17:0-hal_register_write_wq
 PID 10476 - Groups:
 Name:	irq/258-arm-smm
 PID 105 - Groups:
@@ -74,12 +74,10 @@ Name:	sgame:tgaPlugin
 PID 10761 - Groups: 3001 3002 3003 9997 20249 50249 99909997
 Name:	irq/102-tsens-u
 PID 108 - Groups:
-Name:	kworker/5:1-events_power_efficient
+Name:	kworker/5:1-events
 PID 10877 - Groups:
 Name:	irq/103-tsens-c
 PID 109 - Groups:
-Name:	kworker/3:2-cgroup_destroy
-PID 10943 - Groups:
 Name:	rcu_preempt
 PID 11 - Groups:
 Name:	edac-poller
@@ -96,8 +94,6 @@ Name:	irq/9-dcvsh-irq
 PID 112 - Groups:
 Name:	at_usb0
 PID 1120 - Groups:
-Name:	.mobilesecurity
-PID 11209 - Groups: 3003 9997 20246 50246 99909997
 Name:	at_usb1
 PID 1124 - Groups:
 Name:	at_usb2
@@ -120,37 +116,23 @@ Name:	ion-pool-uncach
 PID 114 - Groups:
 Name:	ion-pool-cached
 PID 115 - Groups:
-Name:	externalstorage
-PID 11580 - Groups: 1015 1077 1078 1079 9997 20096 50096 99909997
 Name:	system
 PID 116 - Groups:
-Name:	d.process.media
-PID 11603 - Groups: 1015 1024 1065 1077 1078 1079 2001 3003 3007 9997 20090 50090 99909997
-Name:	m.android.shell
-PID 11622 - Groups: 1002 1065 1077 2000 3002 3010 3011 9997 99909997
-Name:	android.traceur
-PID 11645 - Groups: 9997 20110 50110 99909997
-Name:	kworker/6:1-events
+Name:	kworker/6:1-cgroup_destroy
 PID 11665 - Groups:
-Name:	s.gallery:cloud
-PID 11667 - Groups: 3003 9997 20193 50193 99909997
 Name:	ipa_power_mgmt
 PID 117 - Groups:
-Name:	kworker/7:2-mm_percpu_wq
+Name:	kworker/7:2-cgroup_destroy
 PID 11725 - Groups:
 Name:	transport_power
 PID 118 - Groups:
-Name:	ndroid.keychain
-PID 11801 - Groups: 1000 1004 1007 1015 1024 1065 1077 1078 1079 2002 2901 3001 3002 3003 3007 9997 99909997
 Name:	earchbox:search
 PID 11824 - Groups: 1005 3001 3002 3003 9997 20146 50146 99909997
-Name:	ategoryprovider
-PID 11844 - Groups: 9997 20176 50176 99909997
 Name:	ipa_pm_activate
 PID 119 - Groups:
 Name:	subsystem_ramdu
 PID 1195 - Groups:
-Name:	kworker/4:1-mm_percpu_wq
+Name:	kworker/4:1-events
 PID 11961 - Groups:
 Name:	rcu_sched
 PID 12 - Groups:
@@ -168,8 +150,6 @@ Name:	irq/266-arm-smm
 PID 122 - Groups:
 Name:	irq/267-arm-smm
 PID 123 - Groups:
-Name:	bscriptions.red
-PID 12340 - Groups: 3003 9997 20231 50231 99909997
 Name:	devfreq_wq
 PID 124 - Groups:
 Name:	droid.apps.maps
@@ -184,8 +164,6 @@ Name:	irq/315-arm-smm
 PID 1261 - Groups:
 Name:	mhi_w
 PID 1262 - Groups:
-Name:	ecovery_process
-PID 12620 - Groups: 3001 3002 3003 9997 20161 50161 99909997
 Name:	offload_wq
 PID 1264 - Groups:
 Name:	irq/565-mhi
@@ -200,8 +178,6 @@ Name:	irq/269-arm-smm
 PID 128 - Groups:
 Name:	feature_enabler
 PID 1281 - Groups: 1003
-Name:	.apps.magazines
-PID 12872 - Groups: 3003 9997 20229 50229 99909997
 Name:	irq/270-arm-smm
 PID 129 - Groups:
 Name:	qmipriod
@@ -228,12 +204,8 @@ Name:	webview_service
 PID 13166 - Groups: 3003 9997 20153 50153 99909997
 Name:	storaged
 PID 1318 - Groups:
-Name:	kworker/2:0-events
-PID 13213 - Groups:
 Name:	perfservice
 PID 1322 - Groups: 3009
-Name:	kworker/0:3-events
-PID 13246 - Groups:
 Name:	roid.apps.turbo
 PID 13247 - Groups: 3002 3003 9997 20142 50142 99909997
 Name:	wfdhdcphalservi
@@ -250,32 +222,16 @@ Name:	dpmQmiMgr
 PID 1333 - Groups:
 Name:	imsqmidaemon
 PID 1337 - Groups: 1007 2901
-Name:	kworker/3:1-cgroup_pidlist_destroy
-PID 13378 - Groups:
-Name:	kworker/1:0-mm_percpu_wq
-PID 13387 - Groups:
-Name:	kworker/2:2-events
-PID 13391 - Groups:
 Name:	kworker/0:1-events
 PID 13468 - Groups:
 Name:	thermal-engine
 PID 1347 - Groups:
-Name:	kworker/3:0-events
-PID 13478 - Groups:
-Name:	kworker/1:1
-PID 13480 - Groups:
-Name:	kworker/2:1-events_power_efficient
-PID 13481 - Groups:
 Name:	ipacm-diag
 PID 1350 - Groups: 2002 2901
-Name:	sh
-PID 13508 - Groups: 1004 1007 1011 1015 1028 3001 3002 3003 3006 3009 3011
-Name:	su
-PID 13510 - Groups: 1004 1007 1011 1015 1028 3001 3002 3003 3006 3009 3011
-Name:	sh
-PID 13515 - Groups:
 Name:	ipacm
 PID 1352 - Groups: 3003
+Name:	opjohnwu.magisk
+PID 13569 - Groups: 3003 9997 20227 50227 99909997
 Name:	netmgrd
 PID 1362 - Groups: 1000 2901 3003 3004
 Name:	port-bridge
@@ -288,6 +244,8 @@ Name:	adsprpcd
 PID 1372 - Groups:
 Name:	cdsprpcd
 PID 1377 - Groups:
+Name:	kworker/u17:2-kgsl-events
+PID 13793 - Groups:
 Name:	wfdvndservice
 PID 1380 - Groups:
 Name:	mediaswcodec
@@ -360,12 +318,16 @@ Name:	migration/0
 PID 17 - Groups:
 Name:	cpuhp/0
 PID 18 - Groups:
+Name:	d.process.acore
+PID 18297 - Groups: 1065 9997 20094 50094 99909997
 Name:	qdss_bridge
 PID 1840 - Groups:
 Name:	qrtr_rx
 PID 1842 - Groups:
 Name:	rmnet_mhi0
 PID 1845 - Groups:
+Name:	.android.chrome
+PID 18778 - Groups: 3001 3002 3003 9997 20163 50163 99909997
 Name:	neplus.nvbackup
 PID 1892 - Groups: 1000 1004 1007 1015 1024 1065 1077 1078 1079 2002 2901 3001 3002 3003 3007 9997 99909997
 Name:	cpuhp/1
@@ -374,14 +336,38 @@ Name:	ks
 PID 1919 - Groups: 3010
 Name:	oemnvbkdaemon
 PID 1920 - Groups: 3010
+Name:	d.chrome_zygote
+PID 19409 - Groups:
+Name:	ocessService0:0
+PID 19480 - Groups:
+Name:	ileged_process0
+PID 19501 - Groups: 3001 3002 3003 9997 20163 50163 99909997
+Name:	ocessService0:1
+PID 19755 - Groups:
 Name:	kthreadd
 PID 2 - Groups:
 Name:	migration/1
 PID 20 - Groups:
+Name:	kworker/6:0-mm_percpu_wq
+PID 20319 - Groups:
+Name:	d.process.media
+PID 20582 - Groups: 1015 1024 1065 1077 1078 1079 2001 3003 3007 9997 20090 50090 99909997
+Name:	.apps.turbo:ssb
+PID 20606 - Groups: 3002 3003 9997 20142 50142 99909997
+Name:	su
+PID 20698 - Groups: 3003 9997 20227 50227 99909997
 Name:	irq/271-arm-smm
 PID 207 - Groups:
+Name:	libbusybox.so
+PID 20703 - Groups:
+Name:	neplus.launcher
+PID 20784 - Groups: 1065 3002 3003 9997 20181 50181 99909997
 Name:	irq/272-arm-smm
 PID 208 - Groups:
+Name:	kworker/7:0-events
+PID 20805 - Groups:
+Name:	eplus.gamespace
+PID 20834 - Groups: 1000 1004 1007 1015 1024 1065 1077 1078 1079 2002 2901 3001 3002 3003 3007 9997 99909997
 Name:	irq/273-arm-smm
 PID 209 - Groups:
 Name:	ksoftirqd/1
@@ -414,14 +400,44 @@ Name:	diag_dci_wq
 PID 220 - Groups:
 Name:	MODEM_CNTL
 PID 221 - Groups:
+Name:	kworker/2:3-mm_percpu_wq
+PID 22161 - Groups:
 Name:	MODEM_DATA
 PID 222 - Groups:
+Name:	us.odm.provider
+PID 22286 - Groups: 9997 20187 50187 99909997
 Name:	MODEM_CMD
 PID 223 - Groups:
+Name:	kworker/3:2-events
+PID 22340 - Groups:
+Name:	kworker/2:0-events
+PID 22349 - Groups:
+Name:	kworker/0:3-events
+PID 22390 - Groups:
+Name:	kworker/1:1-events_power_efficient
+PID 22396 - Groups:
 Name:	MODEM_DCI
 PID 224 - Groups:
+Name:	kworker/3:1-events
+PID 22401 - Groups:
+Name:	kworker/u16:0-events_unbound
+PID 22403 - Groups:
+Name:	kworker/2:1-events_power_efficient
+PID 22427 - Groups:
+Name:	s.gallery:cloud
+PID 22459 - Groups: 3003 9997 20193 50193 99909997
+Name:	kworker/0:4-events
+PID 22483 - Groups:
+Name:	kworker/u16:1-devfreq_wq
+PID 22493 - Groups:
 Name:	MODEM_DCI_CMD
 PID 225 - Groups:
+Name:	sh
+PID 22515 - Groups: 1004 1007 1011 1015 1028 3001 3002 3003 3006 3009 3011
+Name:	su
+PID 22517 - Groups: 1004 1007 1011 1015 1028 3001 3002 3003 3006 3009 3011
+Name:	sh
+PID 22522 - Groups:
 Name:	LPASS_CNTL
 PID 226 - Groups:
 Name:	LPASS_DATA
@@ -554,14 +570,10 @@ Name:	kgsl-mementry
 PID 276 - Groups:
 Name:	kgsl_worker_thr
 PID 277 - Groups:
-Name:	us.odm.provider
-PID 27777 - Groups: 9997 20187 50187 99909997
 Name:	qseecom-unreg-l
 PID 278 - Groups:
 Name:	qseecom-unload-
 PID 279 - Groups:
-Name:	kworker/6:3-cgroup_pidlist_destroy
-PID 27950 - Groups:
 Name:	migration/2
 PID 28 - Groups:
 Name:	irq/274-arm-smm
@@ -598,8 +610,6 @@ Name:	irq/277-arm-smm
 PID 285 - Groups:
 Name:	ndroid.settings
 PID 28661 - Groups: 1000 1004 1007 1015 1024 1065 1077 1078 1079 2002 2901 3001 3002 3003 3007 9997 99909997
-Name:	neplus.launcher
-PID 28665 - Groups: 1065 3002 3003 9997 20181 50181 99909997
 Name:	lus.coreservice
 PID 28702 - Groups: 1000 1004 1007 1015 1024 1065 1077 1078 1079 2002 2901 3001 3002 3003 3007 9997 99909997
 Name:	.oneplus.config
@@ -656,8 +666,6 @@ Name:	kworker/0:2-events
 PID 30460 - Groups:
 Name:	scsi_eh_0
 PID 306 - Groups:
-Name:	kworker/u16:0-devfreq_wq
-PID 30611 - Groups:
 Name:	kworker/0:0-events
 PID 30682 - Groups:
 Name:	Binder:30691_2
@@ -670,7 +678,7 @@ Name:	rs.media.module
 PID 30730 - Groups: 1015 1023 1065 1077 1078 1079 3007 9997 20211 50211 99909997
 Name:	olby.daxservice
 PID 30738 - Groups: 9997 20185 50185 99909997
-Name:	kworker/u16:3-WCNSS_DATA
+Name:	kworker/u16:3-ufs_pm_qos_0
 PID 30757 - Groups:
 Name:	com.android.nfc
 PID 30771 - Groups: 1027 3001 3002 3003 9997 99909997
@@ -714,24 +722,18 @@ Name:	nvme-wq
 PID 312 - Groups:
 Name:	kworker/u16:12-memlat_wq
 PID 31277 - Groups:
-Name:	kworker/u16:14-memlat_wq
-PID 31279 - Groups:
-Name:	kworker/0:4-events
-PID 31283 - Groups:
 Name:	nvme-reset-wq
 PID 313 - Groups:
-Name:	kworker/1:3-events_freezable_power_
+Name:	kworker/1:3-mm_percpu_wq
 PID 31300 - Groups:
 Name:	kworker/0:6-events
 PID 31312 - Groups:
 Name:	kworker/0:7-events
 PID 31313 - Groups:
-Name:	kworker/u16:18-adb
+Name:	kworker/u16:18-memlat_wq
 PID 31380 - Groups:
 Name:	nvme-delete-wq
 PID 314 - Groups:
-Name:	kworker/u17:1-dwc_wq
-PID 31484 - Groups:
 Name:	bond0
 PID 315 - Groups:
 Name:	irq/278-arm-smm
@@ -762,8 +764,6 @@ Name:	ualcomm.qti.uim
 PID 32342 - Groups: 1001 1065 3001 3002 3003 3006 3007 3009 9997 99909997
 Name:	oid.apps.photos
 PID 32431 - Groups: 3002 3003 9997 20167 50167 99909997
-Name:	kworker/7:1-cgroup_pidlist_destroy
-PID 32494 - Groups:
 Name:	irq/59-hap_play
 PID 325 - Groups:
 Name:	t_app_installer
@@ -1622,8 +1622,8 @@ Name:	writeback
 PID 97 - Groups:
 Name:	qccvndhal@1.0-s
 PID 970 - Groups:
-Name:	usap64
-PID 9708 - Groups: 1065 3009
+Name:	droid.apps.docs
+PID 9708 - Groups: 3003 9997 20171 50171 99909997
 Name:	qteeconnector@1
 PID 971 - Groups:
 Name:	sensorscalibrat
@@ -1662,7 +1662,7 @@ Name:	qrtr-ns
 PID 991 - Groups:
 Name:	lery:recyclebin
 PID 9939 - Groups: 3003 9997 20193 50193 99909997
-Name:	usap64
-PID 9998 - Groups: 1065 3009
+Name:	ndroid.contacts
+PID 9998 - Groups: 3003 9997 20149 50149 99909997
 Name:	usap64
 PID 9999 - Groups: 1065 3009
