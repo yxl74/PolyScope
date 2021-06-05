@@ -6,6 +6,9 @@ Polyscope is a tool that computes attack surface on Android file system. Polysco
 ## Why Polyscope?
 Polyscope can be useful for access control policy writers and software developers. Polyscope can identify policy misconfigurations that could lead to vulnerabilities, and highlight domains that needs further testing(e.g. ones with a lot of possible risky data flow).
 
+## Scoped Storage Update for Scoped Storage
+Since Android 11, external storage access control is no longer done with traditional access control mechanisms. Instead, Android relies on File System in Userspace(FUSE)
+and MediaServer component to enfroce access control. More changes are coming to Polyscope in the near future to adapt to scoped storage.
 
 ## Usage
 # Dependencies
