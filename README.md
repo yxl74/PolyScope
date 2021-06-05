@@ -12,7 +12,7 @@ and MediaServer component to enfroce access control. More changes are coming to 
 
 ## Usage
 # Dependencies
-Python3, pure python adb(ppadb), adb
+Python3, pure python adb(ppadb), adb, rooted Android device connected through USB.
 
 
 ## Data Collection
