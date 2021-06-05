@@ -6,5 +6,21 @@ Polyscope is a tool that computes attack surface on Android file system. Polysco
 ## Why Polyscope?
 Polyscope can be useful for access control policy writers and software developers. Polyscope can identify policy misconfigurations that could lead to vulnerabilities, and highlight domains that needs further testing(e.g. ones with a lot of possible risky data flow).
 
-## Requirements
-Polyscope is implemented in python, with some bash scripts for autoatic data collection. Therefore, python3 is required on your system. Also, Polyscope relies on adb(Android Debug Bridge) to collect data, and SEtool to extract MAC policies. We also need python's adb library pyadb.
+
+## Usage
+# Dependencies
+Python3, pure python adb(ppadb), adb
+
+
+## Data Collection
+With adb daemon running, simply run:
+`python3 new_data_collection.py -n <device_name>`
+
+You are free to name the device, just remember the name you use since we need that for the next step.
+
+## Running Anlysis
+To simplified the analysis, Polyscope now combines 
+'python3 polyscope.py -n <device_name> -p <thread_count>'
+
+The result of Polyscope will locate in ./dac_result/<device_name>, specifying 4 kinds Integrity-Violations:
+Read-IV, Write-IV, Binding-IV, Pathname-IV
