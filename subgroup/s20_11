@@ -1,0 +1,1310 @@
+Name:	init
+PID 1 - Groups: 3009
+Name:	rcu_preempt
+PID 10 - Groups:
+Name:	khungtaskd
+PID 1015 - Groups:
+Name:	oom_reaper
+PID 1020 - Groups:
+Name:	kbase_event
+PID 10204 - Groups:
+Name:	writeback
+PID 1025 - Groups:
+Name:	pp.galaxyfinder
+PID 10275 - Groups: 3003 9997 20085 50085
+Name:	kcompactd0
+PID 1035 - Groups:
+Name:	crypto
+PID 1042 - Groups:
+Name:	kblockd
+PID 1043 - Groups:
+Name:	wifi.mobilewips
+PID 10571 - Groups: 1000 1002 1007 1015 1024 1065 1077 1078 1079 2001 3001 3002 3003 3007 3010 3011 5050 9997
+Name:	droid.rubin.app
+PID 1060 - Groups: 3001 3002 3003 5010 9997
+Name:	spi4
+PID 1090 - Groups:
+Name:	kbase_event
+PID 10911 - Groups:
+Name:	spi10
+PID 1094 - Groups:
+Name:	spi14
+PID 1098 - Groups:
+Name:	rcu_sched
+PID 11 - Groups:
+Name:	spi16
+PID 1102 - Groups:
+Name:	spi20
+PID 1106 - Groups:
+Name:	roid.app.camera
+PID 1128 - Groups: 3001 3002 3003 5050 9997 20114 50114
+Name:	kworker/u16:1-adb
+PID 11355 - Groups:
+Name:	kworker/5:0-cgroup_destroy
+PID 11382 - Groups:
+Name:	irq/306-dp-pmic
+PID 1146 - Groups:
+Name:	fw_update
+PID 1158 - Groups:
+Name:	outineUIProcess
+PID 11647 - Groups: 1065 1077 3001 3002 3003 3004 3005 3006 3007 9997 20065 50065
+Name:	irq/349-max7770
+PID 1167 - Groups:
+Name:	kworker/u16:3-five_hook_wq
+PID 11777 - Groups:
+Name:	.gms.persistent
+PID 11911 - Groups: 1005 1007 2001 3001 3002 3003 3006 3007 9997 20241 50241
+Name:	gle.android.gms
+PID 11944 - Groups: 1005 1007 2001 3001 3002 3003 3006 3007 9997 20241 50241
+Name:	rcu_bh
+PID 12 - Groups:
+Name:	kworker/1:0-cgroup_destroy
+PID 12231 - Groups:
+Name:	ickSettingsTile
+PID 12334 - Groups: 1000 1002 1007 1015 1024 1065 1077 1078 1079 2001 3001 3002 3003 3007 3010 3011 5050 9997
+Name:	kworker/u17:1-acpm_update_log
+PID 1238 - Groups:
+Name:	irq/401-s2mps19
+PID 1244 - Groups:
+Name:	.android.forest
+PID 12455 - Groups: 1000 1002 1007 1015 1024 1065 1077 1078 1079 2001 3001 3002 3003 3007 3010 3011 5050 9997
+Name:	irq/453-s2mps22
+PID 1292 - Groups:
+Name:	migration/0
+PID 13 - Groups:
+Name:	kbase_event
+PID 1302 - Groups:
+Name:	book.appmanager
+PID 13199 - Groups: 3003 9997 20174 50174
+Name:	ion_system_heap
+PID 1321 - Groups:
+Name:	com.wssyncmldm
+PID 13211 - Groups: 1000 1002 1007 1015 1024 1065 1077 1078 1079 2001 3001 3002 3003 3007 3010 3011 5050 9997
+Name:	android.youtube
+PID 13235 - Groups: 3003 9997 20250 50250
+Name:	devfreq_wq
+PID 1324 - Groups:
+Name:	rdlegalprovider
+PID 13385 - Groups: 9997 20187 50187
+Name:	kworker/3:1-pm
+PID 13464 - Groups:
+Name:	cs:imageService
+PID 13484 - Groups: 1007 3002 3003 9997 20116 50116
+Name:	ktailbarservice
+PID 13493 - Groups: 3003 9997 20073 50073
+Name:	facebook.system
+PID 13542 - Groups: 9997 20083 50083
+Name:	facebook.katana
+PID 13597 - Groups: 3001 3002 3003 9997 20161 50161
+Name:	libwatcher_bina
+PID 13688 - Groups: 3001 3002 3003 9997 20161 50161
+Name:	cebook.services
+PID 13694 - Groups: 3003 9997 20084 50084
+Name:	ssioncontroller
+PID 13751 - Groups: 9997 20270 50270
+Name:	watchdogd
+PID 1376 - Groups:
+Name:	id.app.routines
+PID 13770 - Groups: 1065 1077 3001 3002 3003 3004 3005 3006 3007 9997 20065 50065
+Name:	rbin
+PID 1380 - Groups:
+Name:	rbin_shrink
+PID 1381 - Groups:
+Name:	vfw_heap
+PID 1382 - Groups:
+Name:	vnfw_heap
+PID 1383 - Groups:
+Name:	vframe_heap
+PID 1384 - Groups:
+Name:	vscaler_heap
+PID 1385 - Groups:
+Name:	gpu_buffer
+PID 1386 - Groups:
+Name:	android.dqagent
+PID 13940 - Groups: 1000 1002 1007 1015 1024 1065 1077 1078 1079 2001 3001 3002 3003 3007 3010 3011 5050 9997
+Name:	kworker/5:1-events
+PID 13980 - Groups:
+Name:	tz_worker_threa
+PID 14 - Groups:
+Name:	thermal_check
+PID 1401 - Groups:
+Name:	.provider.badge
+PID 14026 - Groups: 9997 20067 50067
+Name:	mptcp_wq
+PID 1410 - Groups:
+Name:	cfg80211
+PID 1413 - Groups:
+Name:	kworker/6:0-pm
+PID 14164 - Groups:
+Name:	usap64
+PID 14165 - Groups: 1065 3009
+Name:	kworker/2:2-cgroup_pidlist_destroy
+PID 14175 - Groups:
+Name:	kworker/u19:2-thermal_check
+PID 14188 - Groups:
+Name:	droid.daemonapp
+PID 14207 - Groups: 3003 9997 20165 50165
+Name:	kworker/u18:2-dhd_eventd
+PID 14257 - Groups:
+Name:	.apps.turbo:aab
+PID 14271 - Groups: 3002 3003 9997 20236 50236
+Name:	id.partnersetup
+PID 14277 - Groups: 3003 9997 20232 50232
+Name:	kworker/3:2-pm
+PID 14350 - Groups:
+Name:	kworker/0:2-cgroup_destroy
+PID 14357 - Groups:
+Name:	kworker/1:2-cgroup_pidlist_destroy
+PID 14405 - Groups:
+Name:	kworker/2:0-cgroup_pidlist_destroy
+PID 14406 - Groups:
+Name:	kworker/0:0-events
+PID 14407 - Groups:
+Name:	kworker/u19:0-thermal_check
+PID 14459 - Groups:
+Name:	kworker/6:1
+PID 14484 - Groups:
+Name:	kworker/u16:2-five_hook_wq
+PID 14485 - Groups:
+Name:	kworker/2:1-five_wq
+PID 14504 - Groups:
+Name:	kworker/u19:1-thermal_check
+PID 14534 - Groups:
+Name:	kworker/6:2-mm_percpu_wq
+PID 14540 - Groups:
+Name:	kworker/1:1-pm
+PID 14545 - Groups:
+Name:	sh
+PID 14573 - Groups: 1004 1007 1011 1015 1028 1078 1079 3001 3002 3003 3006 3009 3011
+Name:	su
+PID 14575 - Groups: 1004 1007 1011 1015 1028 1078 1079 3001 3002 3003 3006 3009 3011
+Name:	sh
+PID 14580 - Groups:
+Name:	kswapd0
+PID 1466 - Groups:
+Name:	kzerod
+PID 1467 - Groups:
+Name:	kzerod_huge
+PID 1468 - Groups:
+Name:	sec_audio_dbg_s
+PID 15 - Groups:
+Name:	ecryptfs-kthrea
+PID 1575 - Groups:
+Name:	kworker/3:1H-kblockd
+PID 1590 - Groups:
+Name:	bioset
+PID 1596 - Groups:
+Name:	ogle.android.as
+PID 16692 - Groups: 3001 3002 3003 9997 20233 50233
+Name:	pcie_wq
+PID 1678 - Groups:
+Name:	pcie_wq
+PID 1689 - Groups:
+Name:	disp-det
+PID 1692 - Groups:
+Name:	pcd
+PID 1693 - Groups:
+Name:	err-fg
+PID 1694 - Groups:
+Name:	conn-det
+PID 1695 - Groups:
+Name:	dim-flash
+PID 1696 - Groups:
+Name:	panel-condition
+PID 1697 - Groups:
+Name:	panel-update
+PID 1698 - Groups:
+Name:	panel-vrr-bridg
+PID 1699 - Groups:
+Name:	cpuhp/0
+PID 17 - Groups:
+Name:	irq/282-ppmpu
+PID 1762 - Groups:
+Name:	d.beaconmanager
+PID 17621 - Groups: 3001 3002 3007 5006 9997
+Name:	irq/283-ppmpu
+PID 1763 - Groups:
+Name:	irq/284-ppmpu
+PID 1764 - Groups:
+Name:	irq/285-ppmpu
+PID 1765 - Groups:
+Name:	hbox:interactor
+PID 17705 - Groups: 1005 3001 3002 3003 9997 20242 50242
+Name:	cp2ap_wakeup_wq
+PID 1778 - Groups:
+Name:	trigger_cp_cras
+PID 1779 - Groups:
+Name:	cpuhp/1
+PID 18 - Groups:
+Name:	droid.gallery3d
+PID 1821 - Groups: 3003 5050 9997 20121 50121
+Name:	hwrng
+PID 1841 - Groups:
+Name:	g3d_dvfs
+PID 1846 - Groups:
+Name:	kbase_job_fault
+PID 1848 - Groups:
+Name:	ss_conn_daemon2
+PID 18491 - Groups: 3004
+Name:	.MtpApplication
+PID 18502 - Groups: 1000 1002 1007 1015 1024 1065 1077 1078 1079 2001 3001 3002 3003 3007 3010 3011 5050 9997
+Name:	g2dscheduler
+PID 1854 - Groups:
+Name:	.app.music:main
+PID 1863 - Groups: 1007 3002 3003 9997 20276 50276
+Name:	tz_worker_threa
+PID 19 - Groups:
+Name:	ree_time
+PID 1929 - Groups:
+Name:	tz_iwlog_thread
+PID 1933 - Groups:
+Name:	tz_iwsock
+PID 1934 - Groups:
+Name:	cirrus_pwr_wq
+PID 1953 - Groups:
+Name:	kworker/7:2-mm_percpu_wq
+PID 19605 - Groups:
+Name:	kworker/7:1-cgroup_pidlist_destroy
+PID 19732 - Groups:
+Name:	irq/463-sec-nfc
+PID 1975 - Groups:
+Name:	irq/462-sec-nfc
+PID 1978 - Groups:
+Name:	ufs_perf_0
+PID 1987 - Groups:
+Name:	scsi_eh_0
+PID 1988 - Groups:
+Name:	scsi_tmf_0
+PID 1989 - Groups:
+Name:	ufs_clk_gating_
+PID 1990 - Groups:
+Name:	kthreadd
+PID 2 - Groups:
+Name:	migration/1
+PID 20 - Groups:
+Name:	srpmb_wq
+PID 2035 - Groups:
+Name:	sh
+PID 20445 - Groups: 1004 1007 1011 1015 1028 1078 1079 3001 3002 3003 3006 3009 3011
+Name:	su
+PID 20448 - Groups: 1004 1007 1011 1015 1028 1078 1079 3001 3002 3003 3006 3009 3011
+Name:	sh
+PID 20453 - Groups:
+Name:	.shealth:remote
+PID 20550 - Groups: 3001 3002 3003 9997 20275 50275
+Name:	d.mobileservice
+PID 20726 - Groups: 3003 9997 20120 50120
+Name:	kbase_event
+PID 20733 - Groups:
+Name:	ung.android.scs
+PID 20896 - Groups: 1007 3002 3003 9997 20116 50116
+Name:	d.process.acore
+PID 20944 - Groups: 1007 1065 9997 20068 50068
+Name:	ksoftirqd/1
+PID 21 - Groups:
+Name:	usb_int_qos_wq
+PID 2103 - Groups:
+Name:	id.gms.unstable
+PID 21052 - Groups: 1005 1007 2001 3001 3002 3003 3006 3007 9997 20241 50241
+Name:	ocess.gservices
+PID 21169 - Groups: 1005 1007 2001 3001 3002 3003 3006 3007 9997 20241 50241
+Name:	uether
+PID 2125 - Groups:
+Name:	op_wait
+PID 2128 - Groups:
+Name:	op_send
+PID 2129 - Groups:
+Name:	ccic_irq_event
+PID 2130 - Groups:
+Name:	irq/151-1084000
+PID 21331 - Groups:
+Name:	typec_manager_e
+PID 2135 - Groups:
+Name:	typec_manager_m
+PID 2136 - Groups:
+Name:	max77705_pd
+PID 2137 - Groups:
+Name:	id.app.reminder
+PID 21464 - Groups: 3003 9997 20229 50229
+Name:	oid.app.dexonpc
+PID 21631 - Groups: 1000 1002 1007 1015 1024 1065 1077 1078 1079 2001 3001 3002 3003 3007 3010 3011 5050 9997
+Name:	irq/468-sec_ts
+PID 2177 - Groups:
+Name:	webview_zygote
+PID 21897 - Groups:
+Name:	kbase_event
+PID 22051 - Groups:
+Name:	irq/201-186d000
+PID 2206 - Groups:
+Name:	mfc/watchdog
+PID 2213 - Groups:
+Name:	mfc/idle
+PID 2214 - Groups:
+Name:	mfc/butler
+PID 2215 - Groups:
+Name:	ung.android.fmm
+PID 22344 - Groups: 1000 1002 1007 1015 1024 1065 1077 1078 1079 2001 3001 3002 3003 3007 3010 3011 5050 9997
+Name:	kworker/4:1H-kblockd
+PID 2235 - Groups:
+Name:	.osp.app.signin
+PID 22353 - Groups: 3002 3003 9997 20115 50115
+Name:	kbase_event
+PID 2238 - Groups:
+Name:	droid.app.music
+PID 22771 - Groups: 1007 3002 3003 9997 20276 50276
+Name:	jsqz
+PID 2280 - Groups:
+Name:	irq/299-1009000
+PID 2292 - Groups:
+Name:	irq/299-1009000
+PID 2294 - Groups:
+Name:	irq/299-1009000
+PID 2296 - Groups:
+Name:	irq/300-100a000
+PID 2298 - Groups:
+Name:	kworker/1:0H-kblockd
+PID 23 - Groups:
+Name:	irq/300-100a000
+PID 2300 - Groups:
+Name:	irq/300-100a000
+PID 2302 - Groups:
+Name:	kbase_event
+PID 23111 - Groups:
+Name:	dm_bufio_cache
+PID 2312 - Groups:
+Name:	esgov:0
+PID 2317 - Groups:
+Name:	esgov:4
+PID 2318 - Groups:
+Name:	esgov:6
+PID 2319 - Groups:
+Name:	ervice:provider
+PID 23213 - Groups: 1065 1077 3001 3002 3003 3004 3005 3006 3007 9997 20065 50065
+Name:	dw-mci-card
+PID 2330 - Groups:
+Name:	dw_mci_clk_ctrl
+PID 2331 - Groups:
+Name:	earchbox:search
+PID 23365 - Groups: 1005 3001 3002 3003 9997 20242 50242
+Name:	cpuhp/2
+PID 24 - Groups:
+Name:	ndroid.kgclient
+PID 24028 - Groups: 3001 3002 3003 3007 9997 20095 50095
+Name:	sec_abc_wq
+PID 2422 - Groups:
+Name:	bootc_wq
+PID 2426 - Groups:
+Name:	simpleinteracti
+PID 2432 - Groups:
+Name:	simpleinteracti
+PID 2436 - Groups:
+Name:	simpleinteracti
+PID 2440 - Groups:
+Name:	simpleinteracti
+PID 2444 - Groups:
+Name:	simpleinteracti
+PID 2448 - Groups:
+Name:	oid.bixby.agent
+PID 24519 - Groups: 1007 3001 3002 3003 5018 9997
+Name:	simpleinteracti
+PID 2452 - Groups:
+Name:	simpleinteracti
+PID 2456 - Groups:
+Name:	simpleinteracti
+PID 2460 - Groups:
+Name:	kbase_event
+PID 24629 - Groups:
+Name:	simpleinteracti
+PID 2464 - Groups:
+Name:	simpleinteracti
+PID 2468 - Groups:
+Name:	roid.honeyboard
+PID 24700 - Groups: 3002 3003 9997 20181 50181
+Name:	simpleinteracti
+PID 2473 - Groups:
+Name:	adbd
+PID 24732 - Groups: 1004 1007 1011 1015 1028 1078 1079 3001 3002 3003 3006 3009 3011
+Name:	ndroid.settings
+PID 24772 - Groups: 1000 1002 1007 1015 1024 1065 1077 1078 1079 2001 3001 3002 3003 3007 3010 3011 5050 9997
+Name:	d.process.media
+PID 24823 - Groups: 1015 1024 1077 1078 1079 2001 3003 3007 5050 9997 20075 50075
+Name:	irq/473-jig-irq
+PID 2486 - Groups:
+Name:	max77705-charge
+PID 2491 - Groups:
+Name:	mfc_workqueue
+PID 2496 - Groups:
+Name:	irq/474-wpd-det
+PID 2497 - Groups:
+Name:	tz_worker_threa
+PID 25 - Groups:
+Name:	irq/476-pca9468
+PID 2500 - Groups:
+Name:	five_tee_msg_th
+PID 2503 - Groups:
+Name:	irq/478-qbt_ipc
+PID 2507 - Groups:
+Name:	qbt2000_debug_w
+PID 2509 - Groups:
+Name:	irq/479-sx9360_
+PID 2520 - Groups:
+Name:	ndroid.calendar
+PID 25240 - Groups: 3002 3003 9997 20163 50163
+Name:	bcm477x_wq
+PID 2526 - Groups:
+Name:	ssp_bbd_on_pack
+PID 2533 - Groups:
+Name:	ssp_bbd_mcu_rea
+PID 2534 - Groups:
+Name:	ssp_debug_wq
+PID 2569 - Groups:
+Name:	com.samsung.SMT
+PID 25691 - Groups: 1000 1002 1007 1015 1024 1065 1077 1078 1079 2001 3001 3002 3003 3007 3010 3011 5050 9997
+Name:	ssp_batch_wq
+PID 2586 - Groups:
+Name:	ssp_motor_wq
+PID 2587 - Groups:
+Name:	BBD_LHD_KILLER
+PID 2588 - Groups:
+Name:	irq/483-als_rea
+PID 2597 - Groups:
+Name:	migration/2
+PID 26 - Groups:
+Name:	irq/484-cs40l25
+PID 2602 - Groups:
+Name:	kbase_event
+PID 26152 - Groups:
+Name:	irq/461-cs35l41
+PID 2617 - Groups:
+Name:	irq/475-wpc-irq
+PID 2620 - Groups:
+Name:	irq/461-cs35l41
+PID 2621 - Groups:
+Name:	samsung.cmh:CMH
+PID 26230 - Groups: 3003 5004 5050 9997
+Name:	abox_ipc
+PID 2638 - Groups:
+Name:	abox_qos
+PID 2639 - Groups:
+Name:	kbase_event
+PID 26578 - Groups:
+Name:	kbase_event
+PID 26936 - Groups:
+Name:	ksoftirqd/2
+PID 27 - Groups:
+Name:	roid.themestore
+PID 27298 - Groups: 3003 9997 20146 50146
+Name:	kbase_event
+PID 27326 - Groups:
+Name:	droid.app.notes
+PID 27454 - Groups: 1007 3002 3003 9997 20280 50280
+Name:	d.stickercenter
+PID 27517 - Groups: 1000 1002 1007 1015 1024 1065 1077 1078 1079 2001 3001 3002 3003 3007 3010 3011 5050 9997
+Name:	app.samsungapps
+PID 27708 - Groups: 1079 3001 3002 3003 9997 20092 50092
+Name:	droid.messaging
+PID 27777 - Groups: 3002 3003 9997 20127 50127
+Name:	irq/485-1551000
+PID 2825 - Groups:
+Name:	irq/486-1551000
+PID 2826 - Groups:
+Name:	irq/487-1551000
+PID 2827 - Groups:
+Name:	irq/488-1551000
+PID 2828 - Groups:
+Name:	irq/489-1551000
+PID 2829 - Groups:
+Name:	irq/490-1551000
+PID 2830 - Groups:
+Name:	irq/491-1551000
+PID 2831 - Groups:
+Name:	irq/492-1551000
+PID 2832 - Groups:
+Name:	irq/493-1551000
+PID 2833 - Groups:
+Name:	irq/494-1551000
+PID 2834 - Groups:
+Name:	irq/495-1551000
+PID 2835 - Groups:
+Name:	irq/496-1551000
+PID 2836 - Groups:
+Name:	id.apps.tachyon
+PID 28445 - Groups: 3002 3003 9997 20251 50251
+Name:	id.app.contacts
+PID 28545 - Groups: 3003 9997 20117 50117
+Name:	kbase_event
+PID 28554 - Groups:
+Name:	.game.gametools
+PID 28624 - Groups: 3003 3006 9997 20088 50088
+Name:	ipv6_addrconf
+PID 2871 - Groups:
+Name:	kbase_event
+PID 28737 - Groups:
+Name:	kbase_event
+PID 28882 - Groups:
+Name:	kbase_event
+PID 28916 - Groups:
+Name:	kworker/2:0H-kblockd
+PID 29 - Groups:
+Name:	kbase_event
+PID 29033 - Groups:
+Name:	oid.themecenter
+PID 29063 - Groups: 1000 1002 1007 1015 1024 1065 1077 1078 1079 2001 3001 3002 3003 3007 3010 3011 5050 9997
+Name:	cont_migrater:6
+PID 2938 - Groups:
+Name:	cont_migrater:7
+PID 2939 - Groups:
+Name:	ung.android.voc
+PID 2976 - Groups: 1002 1007 3001 3002 3003 3010 3011 9997 20279 50279
+Name:	mst_cluster_fre
+PID 2986 - Groups:
+Name:	oid.app.shealth
+PID 29873 - Groups: 3001 3002 3003 9997 20275 50275
+Name:	five_wq
+PID 2989 - Groups:
+Name:	five_hook_wq
+PID 2990 - Groups:
+Name:	rcu_gp
+PID 3 - Groups:
+Name:	cpuhp/3
+PID 30 - Groups:
+Name:	droid.easyMover
+PID 30250 - Groups: 1007 1077 1079 3001 3002 3003 5050 9997 20277 50277
+Name:	switchassistant
+PID 30546 - Groups: 1000 1002 1007 1015 1024 1065 1077 1078 1079 2001 3001 3002 3003 3007 3010 3011 5050 9997
+Name:	dsim0-wq
+PID 3057 - Groups:
+Name:	panel-bl-thread
+PID 3064 - Groups:
+Name:	mafpc-thread
+PID 3068 - Groups:
+Name:	profiler
+PID 3069 - Groups:
+Name:	kbase_event
+PID 30708 - Groups:
+Name:	kbase_event
+PID 30736 - Groups:
+Name:	10ab0000.displa
+PID 3074 - Groups:
+Name:	10ab0000.displa
+PID 3075 - Groups:
+Name:	devfreq_change
+PID 3082 - Groups:
+Name:	decon0-vsync
+PID 3083 - Groups:
+Name:	decon0-fsync
+PID 3084 - Groups:
+Name:	decon_doze_susp
+PID 3085 - Groups:
+Name:	decon_doze_wake
+PID 3086 - Groups:
+Name:	decon_hiber
+PID 3087 - Groups:
+Name:	decon_exit_hibe
+PID 3088 - Groups:
+Name:	decon0
+PID 3089 - Groups:
+Name:	decon_readback
+PID 3091 - Groups:
+Name:	logcat
+PID 30917 - Groups: 1007 1077 1079 3001 3002 3003 5050 9997 20277 50277
+Name:	decon1-vsync
+PID 3093 - Groups:
+Name:	decon_hiber
+PID 3094 - Groups:
+Name:	decon1
+PID 3096 - Groups:
+Name:	decon_readback
+PID 3097 - Groups:
+Name:	decon2-vsync
+PID 3099 - Groups:
+Name:	tz_worker_threa
+PID 31 - Groups:
+Name:	decon_hiber
+PID 3100 - Groups:
+Name:	decon2
+PID 3102 - Groups:
+Name:	exynos_gmc_thre
+PID 3137 - Groups:
+Name:	usb_notify
+PID 3160 - Groups:
+Name:	irq/500-flip_co
+PID 3165 - Groups:
+Name:	irq/501-certify
+PID 3171 - Groups:
+Name:	kworker/4:0-cgroup_pidlist_destroy
+PID 3174 - Groups:
+Name:	battery
+PID 3189 - Groups:
+Name:	migration/3
+PID 32 - Groups:
+Name:	npu_exynos
+PID 3202 - Groups:
+Name:	blkdev_flush_wq
+PID 3212 - Groups:
+Name:	dhd_rx_pktpool_
+PID 3230 - Groups:
+Name:	dhd_watchdog_th
+PID 3231 - Groups:
+Name:	.android.chrome
+PID 32314 - Groups: 3001 3002 3003 9997 20254 50254
+Name:	dhd_rpm_state_t
+PID 3232 - Groups:
+Name:	dhd_logtrace_th
+PID 3233 - Groups:
+Name:	ksoftirqd/3
+PID 33 - Groups:
+Name:	ng.storyservice
+PID 3379 - Groups: 3003 5004 5050 9997
+Name:	kworker/3:0H-queue_log_workqueue
+PID 35 - Groups:
+Name:	cpuhp/4
+PID 36 - Groups:
+Name:	droid.app.spage
+PID 3679 - Groups: 3001 3002 3003 9997 20158 50158
+Name:	tz_worker_threa
+PID 37 - Groups:
+Name:	usap32
+PID 376 - Groups: 1065 3009
+Name:	jbd2/sda25-8
+PID 3777 - Groups:
+Name:	ext4-rsv-conver
+PID 3778 - Groups:
+Name:	kworker/5:1H-kblockd
+PID 3780 - Groups:
+Name:	kworker/0:1H-kblockd
+PID 3781 - Groups:
+Name:	kdmflush
+PID 3784 - Groups:
+Name:	kdmflush
+PID 3789 - Groups:
+Name:	kdmflush
+PID 3794 - Groups:
+Name:	kdmflush
+PID 3799 - Groups:
+Name:	migration/4
+PID 38 - Groups:
+Name:	ext4-rsv-conver
+PID 3803 - Groups:
+Name:	ext4-rsv-conver
+PID 3805 - Groups:
+Name:	ext4-rsv-conver
+PID 3807 - Groups:
+Name:	ext4-rsv-conver
+PID 3809 - Groups:
+Name:	ext4-rsv-conver
+PID 3810 - Groups:
+Name:	ext4-rsv-conver
+PID 3811 - Groups:
+Name:	kworker/6:1H-kblockd
+PID 3814 - Groups:
+Name:	init
+PID 3818 - Groups: 3009
+Name:	ueventd
+PID 3820 - Groups:
+Name:	ksoftirqd/4
+PID 39 - Groups:
+Name:	irq/154-158d000
+PID 393 - Groups:
+Name:	rcu_par_gp
+PID 4 - Groups:
+Name:	kworker/4:0H-kblockd
+PID 41 - Groups:
+Name:	cpuhp/5
+PID 42 - Groups:
+Name:	tz_worker_threa
+PID 43 - Groups:
+Name:	migration/5
+PID 44 - Groups:
+Name:	ksoftirqd/5
+PID 45 - Groups:
+Name:	kworker/5:0H-kblockd
+PID 47 - Groups:
+Name:	.android.dialer
+PID 4774 - Groups: 3003 9997 20119 50119
+Name:	cpuhp/6
+PID 48 - Groups:
+Name:	tz_worker_threa
+PID 49 - Groups:
+Name:	migration/6
+PID 50 - Groups:
+Name:	irq/254-1590000
+PID 505 - Groups:
+Name:	acpm_update_log
+PID 506 - Groups:
+Name:	kworker/u17:0-acpm_update_log
+PID 507 - Groups:
+Name:	ksoftirqd/6
+PID 51 - Groups:
+Name:	kworker/7:1H-kblockd
+PID 5246 - Groups:
+Name:	loop0
+PID 5274 - Groups:
+Name:	kworker/6:0H-kblockd
+PID 53 - Groups:
+Name:	cpuhp/7
+PID 54 - Groups:
+Name:	irq/286-tzasc
+PID 545 - Groups:
+Name:	irq/287-tzasc
+PID 546 - Groups:
+Name:	irq/288-tzasc
+PID 547 - Groups:
+Name:	irq/289-tzasc
+PID 548 - Groups:
+Name:	kbase_event
+PID 5491 - Groups:
+Name:	tz_worker_threa
+PID 55 - Groups:
+Name:	irq/290-s2mpu_f
+PID 551 - Groups:
+Name:	irq/291-s2mpu_f
+PID 552 - Groups:
+Name:	kworker/1:1H-kblockd
+PID 5557 - Groups:
+Name:	ext4-rsv-conver
+PID 5588 - Groups:
+Name:	loop1
+PID 5589 - Groups:
+Name:	ext4-rsv-conver
+PID 5592 - Groups:
+Name:	loop2
+PID 5593 - Groups:
+Name:	ext4-rsv-conver
+PID 5596 - Groups:
+Name:	loop3
+PID 5597 - Groups:
+Name:	migration/7
+PID 56 - Groups:
+Name:	ext4-rsv-conver
+PID 5600 - Groups:
+Name:	loop4
+PID 5601 - Groups:
+Name:	ext4-rsv-conver
+PID 5604 - Groups:
+Name:	loop5
+PID 5605 - Groups:
+Name:	ext4-rsv-conver
+PID 5608 - Groups:
+Name:	logd
+PID 5616 - Groups: 1000 1032 3009
+Name:	lmkd
+PID 5617 - Groups: 1000 3009
+Name:	servicemanager
+PID 5618 - Groups: 3009
+Name:	hwservicemanage
+PID 5619 - Groups: 3009
+Name:	vndservicemanag
+PID 5620 - Groups: 3009
+Name:	psimon
+PID 5621 - Groups:
+Name:	watchdogd
+PID 5627 - Groups:
+Name:	mtp_read_send
+PID 5629 - Groups:
+Name:	Binder:5639_2
+PID 5639 - Groups: 1065
+Name:	kworker/2:1H-kblockd
+PID 5640 - Groups:
+Name:	jbd2/sda30-8
+PID 5665 - Groups:
+Name:	ext4-rsv-conver
+PID 5666 - Groups:
+Name:	jbd2/sda29-8
+PID 5668 - Groups:
+Name:	ext4-rsv-conver
+PID 5669 - Groups:
+Name:	jbd2/sda1-8
+PID 5679 - Groups:
+Name:	ext4-rsv-conver
+PID 5681 - Groups:
+Name:	ksoftirqd/7
+PID 57 - Groups:
+Name:	kbase_event
+PID 5752 - Groups:
+Name:	jbd2/sda21-8
+PID 5767 - Groups:
+Name:	ext4-rsv-conver
+PID 5768 - Groups:
+Name:	jbd2/sda20-8
+PID 5772 - Groups:
+Name:	ext4-rsv-conver
+PID 5773 - Groups:
+Name:	jbd2/sda2-8
+PID 5884 - Groups:
+Name:	ext4-rsv-conver
+PID 5885 - Groups:
+Name:	jbd2/sda31-8
+PID 5887 - Groups:
+Name:	ext4-rsv-conver
+PID 5888 - Groups:
+Name:	iod
+PID 5892 - Groups:
+Name:	tzdaemon
+PID 5895 - Groups: 3009
+Name:	tzts_daemon
+PID 5899 - Groups:
+Name:	kworker/7:0H-kblockd
+PID 59 - Groups:
+Name:	suspend@1.0-ser
+PID 5907 - Groups: 3010
+Name:	keymaster@4.0-s
+PID 5908 - Groups: 1026
+Name:	keymaster@4.0_s
+PID 5910 - Groups: 1026
+Name:	engmode@1.0-ser
+PID 5911 - Groups:
+Name:	f2fs_ckpt-259:1
+PID 5930 - Groups:
+Name:	f2fs_discard-25
+PID 5931 - Groups:
+Name:	f2fs_gc-259:16
+PID 5932 - Groups:
+Name:	proca@2.0-servi
+PID 5933 - Groups:
+Name:	vaultkeeperd
+PID 5934 - Groups:
+Name:	vaultkeeper@2.0
+PID 5935 - Groups:
+Name:	storkd
+PID 5937 - Groups:
+Name:	loop6
+PID 5947 - Groups:
+Name:	kdmflush
+PID 5952 - Groups:
+Name:	kverityd
+PID 5954 - Groups:
+Name:	ext4-rsv-conver
+PID 5958 - Groups:
+Name:	loop7
+PID 5959 - Groups:
+Name:	kdmflush
+PID 5964 - Groups:
+Name:	kverityd
+PID 5965 - Groups:
+Name:	ext4-rsv-conver
+PID 5968 - Groups:
+Name:	loop8
+PID 5969 - Groups:
+Name:	kdmflush
+PID 5974 - Groups:
+Name:	kverityd
+PID 5975 - Groups:
+Name:	ext4-rsv-conver
+PID 5978 - Groups:
+Name:	loop9
+PID 5979 - Groups:
+Name:	kdmflush
+PID 5984 - Groups:
+Name:	kverityd
+PID 5985 - Groups:
+Name:	ext4-rsv-conver
+PID 5989 - Groups:
+Name:	loop10
+PID 5990 - Groups:
+Name:	kdmflush
+PID 5995 - Groups:
+Name:	kverityd
+PID 5996 - Groups:
+Name:	ext4-rsv-conver
+PID 5999 - Groups:
+Name:	kworker/0:0H-kblockd
+PID 6 - Groups:
+Name:	kdevtmpfs
+PID 60 - Groups:
+Name:	loop11
+PID 6000 - Groups:
+Name:	usap32
+PID 6003 - Groups: 1065 3009
+Name:	kdmflush
+PID 6005 - Groups:
+Name:	kverityd
+PID 6006 - Groups:
+Name:	ext4-rsv-conver
+PID 6009 - Groups:
+Name:	loop12
+PID 6010 - Groups:
+Name:	kdmflush
+PID 6015 - Groups:
+Name:	kverityd
+PID 6016 - Groups:
+Name:	ext4-rsv-conver
+PID 6019 - Groups:
+Name:	loop13
+PID 6020 - Groups:
+Name:	kdmflush
+PID 6025 - Groups:
+Name:	kverityd
+PID 6026 - Groups:
+Name:	ext4-rsv-conver
+PID 6029 - Groups:
+Name:	loop14
+PID 6030 - Groups:
+Name:	kdmflush
+PID 6035 - Groups:
+Name:	kverityd
+PID 6036 - Groups:
+Name:	ext4-rsv-conver
+PID 6039 - Groups:
+Name:	loop15
+PID 6040 - Groups:
+Name:	kdmflush
+PID 6045 - Groups:
+Name:	kverityd
+PID 6046 - Groups:
+Name:	ext4-rsv-conver
+PID 6049 - Groups:
+Name:	loop16
+PID 6050 - Groups:
+Name:	kdmflush
+PID 6055 - Groups:
+Name:	kverityd
+PID 6056 - Groups:
+Name:	ext4-rsv-conver
+PID 6059 - Groups:
+Name:	loop17
+PID 6060 - Groups:
+Name:	kdmflush
+PID 6065 - Groups:
+Name:	kverityd
+PID 6066 - Groups:
+Name:	ext4-rsv-conver
+PID 6069 - Groups:
+Name:	loop18
+PID 6070 - Groups:
+Name:	kdmflush
+PID 6075 - Groups:
+Name:	kverityd
+PID 6076 - Groups:
+Name:	ext4-rsv-conver
+PID 6079 - Groups:
+Name:	loop19
+PID 6080 - Groups:
+Name:	kdmflush
+PID 6085 - Groups:
+Name:	kverityd
+PID 6086 - Groups:
+Name:	ext4-rsv-conver
+PID 6089 - Groups:
+Name:	loop20
+PID 6090 - Groups:
+Name:	kdmflush
+PID 6095 - Groups:
+Name:	kverityd
+PID 6096 - Groups:
+Name:	ext4-rsv-conver
+PID 6099 - Groups:
+Name:	netns
+PID 61 - Groups:
+Name:	loop21
+PID 6100 - Groups:
+Name:	ext4-rsv-conver
+PID 6103 - Groups:
+Name:	loop22
+PID 6104 - Groups:
+Name:	ext4-rsv-conver
+PID 6107 - Groups:
+Name:	loop23
+PID 6108 - Groups:
+Name:	ext4-rsv-conver
+PID 6111 - Groups:
+Name:	loop24
+PID 6112 - Groups:
+Name:	ext4-rsv-conver
+PID 6115 - Groups:
+Name:	loop25
+PID 6116 - Groups:
+Name:	ext4-rsv-conver
+PID 6119 - Groups:
+Name:	loop26
+PID 6120 - Groups:
+Name:	ext4-rsv-conver
+PID 6123 - Groups:
+Name:	auditd
+PID 6135 - Groups: 1000 1032
+Name:	magiskd
+PID 6139 - Groups:
+Name:	tombstoned
+PID 6147 - Groups:
+Name:	cass
+PID 6148 - Groups: 1000 3010
+Name:	emservice
+PID 6149 - Groups:
+Name:	Binder:6166_2
+PID 6166 - Groups: 1007
+Name:	Binder:6167_3
+PID 6167 - Groups:
+Name:	main
+PID 6168 - Groups: 1065 3009
+Name:	main
+PID 6169 - Groups: 1065 3009
+Name:	allocator@1.0-s
+PID 6175 - Groups:
+Name:	audio.service
+PID 6176 - Groups: 1006 1013 1026 1031 3001 3002 3003 3007 3010
+Name:	bluetooth@1.0-s
+PID 6177 - Groups:
+Name:	cas@1.2-service
+PID 6178 - Groups: 1026
+Name:	configstore@1.1
+PID 6179 - Groups:
+Name:	drm@1.0-service
+PID 6180 - Groups: 1026
+Name:	drm@1.3-service
+PID 6184 - Groups: 1031
+Name:	drm@1.3-service
+PID 6185 - Groups: 1000 1026 1031
+Name:	gatekeeper@1.0-
+PID 6188 - Groups: 5678
+Name:	allocator@2.0-s
+PID 6189 - Groups: 1026
+Name:	composer@2.3-se
+PID 6190 - Groups: 1026
+Name:	android.hardwar
+PID 6191 - Groups:
+Name:	memtrack@1.0-se
+PID 6192 - Groups:
+Name:	neuralnetworks@
+PID 6193 - Groups:
+Name:	secure_element@
+PID 6194 - Groups:
+Name:	sensors@2.0-ser
+PID 6197 - Groups: 1004 1080 3010
+Name:	usb@1.1-service
+PID 6198 - Groups:
+Name:	wifi@1.0-servic
+PID 6200 - Groups: 1021
+Name:	hermesd
+PID 6203 - Groups: 5678
+Name:	vendor.samsung.
+PID 6204 - Groups:
+Name:	vendor.samsung.
+PID 6205 - Groups:
+Name:	android.hardwar
+PID 6207 - Groups:
+Name:	provider@4.0-se
+PID 6208 - Groups: 1000 1004 1006 1013 1015 1023 1026
+Name:	miscpower@2.0-s
+PID 6215 - Groups:
+Name:	drk@2.0-service
+PID 6221 - Groups:
+Name:	snap@1.1-servic
+PID 6223 - Groups:
+Name:	sysinput@1.0-se
+PID 6224 - Groups:
+Name:	thermal@1.0-ser
+PID 6245 - Groups:
+Name:	vibrator@2.1-se
+PID 6250 - Groups:
+Name:	wifi@2.0-servic
+PID 6253 - Groups: 1021
+Name:	ExynosHWCServic
+PID 6260 - Groups: 1026
+Name:	configstore@1.0
+PID 6261 - Groups:
+Name:	eden_runtime@1.
+PID 6262 - Groups:
+Name:	epic@1.0-servic
+PID 6265 - Groups:
+Name:	geoTransService
+PID 6267 - Groups: 1000 1026 2000
+Name:	ofi@2.1-service
+PID 6268 - Groups:
+Name:	audioserver
+PID 6270 - Groups: 1006 1007 1013 1026 1031 3001 3002 3007 3010
+Name:	credstore
+PID 6271 - Groups:
+Name:	Binder:6273_2
+PID 6273 - Groups:
+Name:	perfmond
+PID 6274 - Groups: 3009
+Name:	surfaceflinger
+PID 6275 - Groups: 1026 3009
+Name:	heimdalld
+PID 6285 - Groups: 3009
+Name:	kbase_event
+PID 6316 - Groups:
+Name:	kbase_event
+PID 6320 - Groups:
+Name:	kbase_event
+PID 6342 - Groups:
+Name:	kbase_event
+PID 6366 - Groups:
+Name:	traced_probes
+PID 6380 - Groups: 1007 3009
+Name:	traced
+PID 6381 - Groups:
+Name:	sdp_cryptod
+PID 6393 - Groups:
+Name:	cameraserver
+PID 6396 - Groups: 1004 1006 1026
+Name:	drmserver
+PID 6397 - Groups: 1000 1026 3003 3009 5432
+Name:	freecessmonitor
+PID 6398 - Groups:
+Name:	rcu_tasks_kthre
+PID 64 - Groups:
+Name:	imsd
+PID 6403 - Groups: 1001 3003 3004 3005
+Name:	Binder:6404_2
+PID 6404 - Groups: 1007 3009
+Name:	smdexe
+PID 6405 - Groups: 1001 3003 3004
+Name:	diagexe
+PID 6406 - Groups: 1001 1015 1023 1028 3003 3004 9997
+Name:	ddexe
+PID 6407 - Groups: 1001 3003 3004
+Name:	freecessmod
+PID 6409 - Groups:
+Name:	freecessmod
+PID 6410 - Groups:
+Name:	freecessmod
+PID 6411 - Groups:
+Name:	freecessmod
+PID 6412 - Groups:
+Name:	connfwexe
+PID 6413 - Groups: 1001 2000 3003 3004
+Name:	Binder:6418_2
+PID 6418 - Groups:
+Name:	keystore
+PID 6420 - Groups: 1007 1026 3009 5666 5678
+Name:	mediaextractor
+PID 6429 - Groups: 1031
+Name:	mediametrics
+PID 6435 - Groups:
+Name:	mediaserver
+PID 6441 - Groups: 1006 1026 1031 3001 3002 3003 3007
+Name:	storaged
+PID 6442 - Groups:
+Name:	wificond
+PID 6446 - Groups: 3004 3005
+Name:	omx@1.0-service
+PID 6447 - Groups: 1026 1031
+Name:	argosd
+PID 6448 - Groups: 1001
+Name:	cbd
+PID 6450 - Groups: 1000 1005 1007 1015 1028 2000 2001 3003 9998
+Name:	epic
+PID 6452 - Groups:
+Name:	lhd
+PID 6454 - Groups: 3003 3004
+Name:	gpsd
+PID 6461 - Groups: 3003 3004 3010
+Name:	rild
+PID 6462 - Groups: 1000 1005 1007 1015 1016 1028 2001 3003 3009 3010 9998
+Name:	rild
+PID 6465 - Groups: 1000 1005 1007 1015 1016 1028 2001 3003 3009 3010 9998
+Name:	gnss@2.0-servic
+PID 6468 - Groups: 1021
+Name:	mediaswcodec
+PID 6473 - Groups: 1026 1031
+Name:	gatekeeperd
+PID 6483 - Groups: 5666 5678
+Name:	main_abox
+PID 6499 - Groups:
+Name:	abox_log
+PID 6508 - Groups:
+Name:	face@2.0-servic
+PID 6514 - Groups: 1004 3011
+Name:	fingerprint@3.0
+PID 6524 - Groups: 1004
+Name:	com.samsung.mlp
+PID 6618 - Groups: 3003 5004 5050 9997
+Name:	system_server
+PID 6647 - Groups: 1001 1002 1003 1004 1005 1006 1007 1008 1009 1010 1018 1021 1023 1024 1032 1065 3001 3002 3003 3006 3007 3009 3010 3011 5666 5678
+Name:	multiclientd
+PID 6854 - Groups: 1007 1015 2001 3003 3009 9998
+Name:	hqm@1.0-service
+PID 6857 - Groups:
+Name:	multiclientd
+PID 6877 - Groups: 1007 1015 2001 3003 3009 9998
+Name:	iptables-restor
+PID 6922 - Groups:
+Name:	ip6tables-resto
+PID 6923 - Groups:
+Name:	mcpsd
+PID 7018 - Groups: 1001
+Name:	m.android.phone
+PID 7050 - Groups: 1001 1007 1030 1065 3001 3002 3003 3006 3007 9997
+Name:	droid.bluetooth
+PID 7069 - Groups: 1002 1002 1016 1077 3001 3002 3003 3004 3005 3007 3010 3011 9997
+Name:	ndroid.systemui
+PID 7100 - Groups: 1065 1077 3001 3002 3003 3004 3005 3006 3007 9997 20065 50065
+Name:	irq/499-dhdpcie
+PID 7101 - Groups:
+Name:	msung.ipservice
+PID 7184 - Groups: 3003 5004 5050 9997
+Name:	ung.faceservice
+PID 7220 - Groups: 3003 5004 5050 9997
+Name:	dhd_eventd
+PID 7257 - Groups:
+Name:	wpa_supplicant
+PID 7276 - Groups: 1007 1010 1017 3003
+Name:	rkstack.process
+PID 7305 - Groups: 1073 3002 3003 3004 3005 3006 3007 9997
+Name:	usap64
+PID 7346 - Groups: 1065 3009
+Name:	com.sec.sve
+PID 7402 - Groups: 1000 1002 1007 1015 1024 1065 1077 1078 1079 2001 3001 3002 3003 3007 3010 3011 5050 9997
+Name:	com.android.nfc
+PID 7430 - Groups: 1027 3001 3002 3003 3004 3005 9997
+Name:	.sec.imsservice
+PID 7461 - Groups: 1000 1002 1007 1015 1024 1065 1077 1078 1079 2001 3001 3002 3003 3007 3010 3011 5050 9997
+Name:	com.android.se
+PID 7505 - Groups: 1068 9997
+Name:	kworker/u18:1-bcm477x_wq
+PID 7507 - Groups:
+Name:	.cmfa.framework
+PID 7524 - Groups: 1000 1002 1007 1015 1024 1065 1077 1078 1079 2001 3001 3002 3003 3007 3010 3011 5050 9997
+Name:	sec.android.har
+PID 7598 - Groups: 3001
+Name:	id.ext.services
+PID 7622 - Groups: 9997 20266 50266
+Name:	id.app.launcher
+PID 7751 - Groups: 3003 9997 20149 50149
+Name:	kauditd
+PID 78 - Groups:
+Name:	kbase_event
+PID 7847 - Groups:
+Name:	mm_percpu_wq
+PID 8 - Groups:
+Name:	location.nsflp2
+PID 8117 - Groups: 3002 3003 3007 5013 9997
+Name:	bsd
+PID 8184 - Groups:
+Name:	perfsdkserver
+PID 8213 - Groups: 3009
+Name:	pageboostd
+PID 8231 - Groups: 1001 1009 1013 1015 1023 2000 3002
+Name:	roid:drmService
+PID 8441 - Groups: 1000 1002 1007 1015 1024 1065 1077 1078 1079 2001 3001 3002 3003 3007 3010 3011 5050 9997
+Name:	kworker/4:2-events
+PID 8497 - Groups:
+Name:	intr_syncd
+PID 850 - Groups:
+Name:	id.diagmonagent
+PID 8656 - Groups: 1000 1002 1007 1015 1024 1065 1077 1078 1079 2001 3001 3002 3003 3007 3010 3011 5050 9997
+Name:	ris.tui_service
+PID 8726 - Groups: 1000 1002 1007 1015 1024 1065 1077 1078 1079 2001 3001 3002 3003 3007 3010 3011 5050 9997
+Name:	c.android.sdhms
+PID 8757 - Groups: 1000 1002 1007 1015 1024 1065 1077 1078 1079 2001 3001 3002 3003 3007 3010 3011 5050 9997
+Name:	rs.media.module
+PID 8779 - Groups: 1015 1023 1065 1077 1078 1079 3007 9997 20269 50269
+Name:	droid.mcfserver
+PID 8830 - Groups: 1000 1002 1007 1015 1024 1065 1077 1078 1079 2001 3001 3002 3003 3007 3010 3011 5050 9997
+Name:	kbase_event
+PID 8907 - Groups:
+Name:	equicksearchbox
+PID 8940 - Groups: 1005 3001 3002 3003 9997 20242 50242
+Name:	martsuggestions
+PID 8976 - Groups: 9997 20122 50122
+Name:	ksoftirqd/0
+PID 9 - Groups:
+Name:	oid.setupwizard
+PID 9041 - Groups: 3003 9997 20265 50265
+Name:	ndroid.svcagent
+PID 9294 - Groups: 1000 1002 1007 1015 1024 1065 1077 1078 1079 2001 3001 3002 3003 3007 3010 3011 5050 9997
+Name:	t_app_installer
+PID 9537 - Groups: 1079 3001 3002 3003 3007 9997 20240 50240
+Name:	searchbox:train
+PID 9975 - Groups: 1005 3001 3002 3003 9997 20242 50242
